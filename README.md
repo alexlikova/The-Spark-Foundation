@@ -1,7 +1,7 @@
 <h1 style="text-align:center, color ="blue">DATA SCIENCE AND BUSINESS ANALYTICS INTERNSHIP</h1>
 <h2 style="text-align:center">THE SPARK FOUNDATION</h2>
 <p align="center">
-![](https://www.thesparksfoundationsingapore.org/images/logo_small.png)
+<img src=“https://www.thesparksfoundationsingapore.org/images/logo_small.png”>
 </p>
 
 <br><br><br>
