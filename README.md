@@ -1,7 +1,7 @@
 <h1 style="text-align:center, color ="blue">DATA SCIENCE AND BUSINESS ANALYTICS INTERNSHIP</h1>
 <h2 style="text-align:center">THE SPARK FOUNDATION</h2>
 <p align="center">
-  <img src="https://www.google.com/url?sa=i&url=https%3A%2F%2Fsg.linkedin.com%2Fcompany%2Fthe-sparks-foundation&psig=AOvVaw13L5gw1CkoqGAwjtqmXa_e&ust=1613655813872000&source=images&cd=vfe&ved=0CAIQjRxqFwoTCPDdv5qH8e4CFQAAAAAdAAAAABAD", width="350", title="hover text">
+![](https://www.thesparksfoundationsingapore.org/images/logo_small.png)
 </p>
 
 <br><br><br>
@@ -173,7 +173,6 @@ basic as well as advanced charts <br>
 <p align="center">
   <b><i>Let's connect!</i></b>
 
-#[<img height="30" src = "https://img.shields.io/badge/Youtube-%23E4405F.svg?&style=for-the-badge&logo=Youtube&logoColor=white">][Youtube] 
 [<img height="30" src = "https://img.shields.io/badge/gmail-c14438?&style=for-the-badge&logo=gmail&logoColor=white">][gmail] 
 [<img height="30" src="https://img.shields.io/badge/linkedin-blue.svg?&style=for-the-badge&logo=linkedin&logoColor=white" />][LinkedIn]
 [<img height="30" src="https://img.shields.io/badge/github-black.svg?&style=for-the-badge&logo=github&logoColor=white" />][Github]
