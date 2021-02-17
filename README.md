@@ -1,7 +1,7 @@
 <h1 style="text-align:center, color ="blue">DATA SCIENCE AND BUSINESS ANALYTICS INTERNSHIP</h1>
 <h2 style="text-align:center">THE SPARK FOUNDATION</h2>
 <p align="center">
-<img src=“https://www.thesparksfoundationsingapore.org/images/logo_small.png”>
+<img src=“https://github.com/alexlikova/The-Spark-Foundation/blob/main/spark_foundation_logo.png?raw=true”>
 </p>
 
 <br><br><br>
@@ -9,6 +9,8 @@
                                            
 <img height="27" src="https://img.shields.io/badge/Prediction using Supervised ML -Level  Beginner-green.svg?&style=for-the-badge&logo=TheSparksFoundation&logoColor=red" />
 <br>
+
+
 > Problem statement :
 - Predict the percentage of an student based on the no. of study hours. <br>
 - This is a simple linear regression task as it involves just 2 variables.<br>
@@ -16,7 +18,6 @@
 - What will be predicted score if a student studies for 9.25 hrs/ day? <br>
 - Here is the dataset :
 <a href="https://raw.githubusercontent.com/AdiPersonalWorks/Random/master/student_scores%20-%20student_scores.csv>Dataset.csv</a><br><br>
-
 > Solution:
 <a href="https://github.com/alexlikova/The-Spark-Foundation/blob/main/Task%201%20-%20Simple%20Linear%20Regression%20-%20student_score%20vs%20hours%20of%20studying.ipynb"> Prediction using Supervised ML</a>
 
