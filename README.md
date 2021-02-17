@@ -16,6 +16,7 @@
 - What will be predicted score if a student studies for 9.25 hrs/ day? <br>
 - Here is the dataset :
 <a href="https://raw.githubusercontent.com/AdiPersonalWorks/Random/master/student_scores%20-%20student_scores.csv>Dataset.csv</a><br><br>
+
 > Solution:
 <a href="https://github.com/alexlikova/The-Spark-Foundation/blob/main/Task%201%20-%20Simple%20Linear%20Regression%20-%20student_score%20vs%20hours%20of%20studying.ipynb"> Prediction using Supervised ML</a>
 
